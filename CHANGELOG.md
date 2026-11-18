@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.2 (18 November 2026)
+
+- New: **Settings › About** shows who made NativeSIP (Muhammad Yahya), a contact email
+  (hello@yahya.bd), a link to report a problem or suggest a feature on GitHub, and a link to the
+  user guide.
+
+Install it over 1.0.1; your accounts and settings are kept.
+
 ## 1.0.1 (18 November 2026)
 
 - Fixed: on the auto dialer screen the Pause, Skip and Stop buttons no longer squeeze together on
