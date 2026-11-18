@@ -8,6 +8,31 @@ appear in your call history. It stays online in the background and starts when t
 
 [**Download the latest APK →**](../../releases/latest)
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/01-recents.png" width="200" alt="Recents"><br><sub>Recents with SIP and SIM calls</sub></td>
+    <td align="center"><img src="docs/screenshots/03-keypad.png" width="200" alt="Keypad"><br><sub>Keypad with contact search</sub></td>
+    <td align="center"><img src="docs/screenshots/04-chooser.png" width="200" alt="Call with"><br><sub>Pick a SIP account or SIM</sub></td>
+    <td align="center"><img src="docs/screenshots/05-incall.png" width="200" alt="In call"><br><sub>Call screen with HD voice</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/06-incoming.png" width="200" alt="Incoming call"><br><sub>Incoming call</sub></td>
+    <td align="center"><img src="docs/screenshots/07-settings.png" width="200" alt="Settings"><br><sub>Several accounts online at once</sub></td>
+    <td align="center"><img src="docs/screenshots/08-routing.png" width="200" alt="Call routing"><br><sub>Automatic SIP/SIM routing</sub></td>
+    <td align="center"><img src="docs/screenshots/09-blocked.png" width="200" alt="Blocked numbers"><br><sub>Block list and spam filter</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/10-recordings.png" width="200" alt="Call recordings"><br><sub>Call recordings</sub></td>
+    <td align="center"><img src="docs/screenshots/11-autodialer.png" width="200" alt="Auto dialer"><br><sub>Auto dialer campaigns</sub></td>
+    <td align="center"><img src="docs/screenshots/02-favorites.png" width="200" alt="Favourites"><br><sub>Favourites</sub></td>
+    <td align="center"><img src="docs/screenshots/12-contacts.png" width="200" alt="Contacts"><br><sub>Contacts</sub></td>
+  </tr>
+</table>
+
+<sub>Screenshots use made-up names, numbers and accounts.</sub>
+
 ---
 
 ## Features
