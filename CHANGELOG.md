@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1 (18 November 2026)
+
+- Fixed: on the auto dialer screen the Pause, Skip and Stop buttons no longer squeeze together on
+  narrower phones; they wrap onto a second line instead.
+
+Install it over 1.0.0; your accounts and settings are kept.
+
 ## 1.0.0 (18 November 2026)
 
 First public release.
