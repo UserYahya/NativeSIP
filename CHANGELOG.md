@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.3 (24 November 2026)
+
+- New: **automatic updates.** NativeSIP checks this page for new releases, downloads the right APK
+  for your phone, verifies it and installs it, by default on Wi-Fi only and never during a call.
+  Settings › Updates lets you check now, choose automatic / notify-only / off, and allow NativeSIP
+  to install updates.
+
+From 1.0.3 on you won't need to download new versions by hand. Install 1.0.3 over your current
+version once; your accounts and settings are kept.
+
 ## 1.0.2 (18 November 2026)
 
 - New: **Settings › About** shows who made NativeSIP (Muhammad Yahya), a contact email

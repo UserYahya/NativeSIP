@@ -11,6 +11,7 @@
 - [Call quality](#call-quality)
 - [Default phone app mode](#default-phone-app-mode)
 - [Background and battery](#background-and-battery)
+- [Automatic updates](#automatic-updates)
 
 ---
 
@@ -178,3 +179,23 @@ waiting). Switch back any time in Android Settings › Apps › Default apps ›
 - **Start when the phone boots** brings everything back after a restart. Open the app once after a
   reboot so calls answered from the lock screen get microphone access.
 - Battery use is low. NativeSIP keeps a light connection to your SIP server.
+
+## Automatic updates
+
+NativeSIP keeps itself up to date from its GitHub releases.
+
+- It checks for a new version about every 6 hours, and whenever you tap **Settings › Updates ›
+  Check for updates**.
+- **Automatic updates:** *Download and install automatically* (default), *Tell me when an update is
+  out*, or *Off*.
+- **Download updates on Wi-Fi only** (default on) avoids using mobile data, which matters when
+  roaming. On mobile data you get a notification instead and can tap to update.
+- **Allow NativeSIP to install updates** must be switched on once (Settings › Updates shows it if
+  it isn't).
+- Updates never install during a call or while the auto dialer is running; they wait until you're
+  done. Your accounts, settings and recordings are kept, and NativeSIP reconnects by itself a few
+  seconds later.
+- On Android 12 and newer updates install without asking. Some phones (for example Xiaomi) still show
+  their own confirmation screen; tap **Install** or **Update**.
+- Every download is checked against the published checksum, and Android only accepts an update signed
+  with the same NativeSIP key as the app you have.

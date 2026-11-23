@@ -63,6 +63,7 @@ appear in your call history. It stays online in the background and starts when t
 - Call recording: automatic or on demand, stored privately on the phone
 - Block list and spam filter for SIP and SIM calls
 - Auto dialer: call a list of numbers one after another with retries and results
+- Automatic updates: new releases download and install themselves (Wi-Fi only by default)
 
 ## Get started
 

@@ -21,7 +21,9 @@ Not sure which one? Install the **arm64-v8a** file. If Android says "App not ins
 4. If Google Play Protect shows a warning about an unknown developer, tap **More details →
    Install anyway**. This appears for apps that aren't from the Play Store.
 
-To update later, install the newer APK over the old one; your accounts and settings are kept.
+**Updates install themselves** from version 1.0.3 on: NativeSIP checks for new releases and installs
+them automatically (see [Automatic updates](USER_GUIDE.md#automatic-updates)). If you have an older
+version, install 1.0.3 or newer once by hand; your accounts and settings are kept.
 
 ## 3. Sign in
 
@@ -48,7 +50,9 @@ The checklist appears after sign-in (later: **⋮ › Setup checklist**). Each s
 4. **Autostart** (Xiaomi, Redmi, POCO, Oppo, Realme, OnePlus, Vivo, Huawei, Honor, Samsung, Tecno,
    Infinix…): tap **Open** and allow NativeSIP to start automatically / run in the background.
 5. **Full-screen incoming calls** (Android 14+): allow it so calls light up the locked screen.
-6. Optional: **default phone app** and **auto-route calls from any dialer**.
+6. **Allow installing updates**: Settings › Updates › *Allow NativeSIP to install updates*, so new
+   versions can install themselves.
+7. Optional: **default phone app** and **auto-route calls from any dialer**.
 
 ### Extra settings for some phone makers
 
